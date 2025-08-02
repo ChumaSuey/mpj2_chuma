@@ -22,9 +22,9 @@ I had a left over idea from a level design jam by Steve Lee that i didn't have t
 
 Ever since i grew up as a mapper i realized that idea was not the best i could have done.
 
-A bit from that leftover and abandoned idea i decided to make this map, the brightness/contrast factor can be seen with my signature Neon Lights style.
+With a bit from that leftover and abandoned idea i decided to make this map, the brightness/contrast factor can be seen with my signature Neon Lights style.
 
-The music track was one i requested to Proxy-MIDI because my original idea was an usual Dark Synthwave bumped up track, Proxy did a cool Synthwave style mockup, started from scratch since he didn't record the original and re-made it for my Aesthetic map, i thank him for that.
+The music track was one i requested to Proxy-MIDI because my original idea was an usual Dark Synthwave bumped up track, Proxy did a cool Synthwave style mockup, started from scratch since he didn't record the original and re-made it for my Aesthetic map, i thank him for that. (the song is the in-game version of it as an ogg file, there's a full version hoping Proxy can share it somewhere or i can share it somewhere).
 
 Hope you enjoy my map! Shine with style!
 
