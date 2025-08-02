@@ -1,9 +1,9 @@
 # Neon Vertical Sky High (mpj2_chuma)
 Quake map for Copper 1.35 (Moving Parts 2 jam, map entry)
 
-devkit link: [https://github.com/fabiolimamp/alkaline/releases/tag/1.2.3](https://github.com/fabiolimamp/alkaline/releases/tag/1.2.3b)
 
 TO PLAY: Drop the folder in your sourceport of preference... that's it... have fun!
+(Already included in the jam!)
 
 ### Author info / Metadata
 
