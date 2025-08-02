@@ -1,76 +1,32 @@
-# The System Control
-Quake mod for Alkaline devkit 1.2.3b.
-or in summary : Quake level for Alkaline mod.
+# Neon Vertical Sky High (mpj2_chuma)
+Quake map for Copper 1.35 (Moving Parts 2 jam, map entry)
 
 devkit link: [https://github.com/fabiolimamp/alkaline/releases/tag/1.2.3](https://github.com/fabiolimamp/alkaline/releases/tag/1.2.3b)
 
 TO PLAY: Drop the folder in your sourceport of preference... that's it... have fun!
 
 ### Author info / Metadata
-Start map : Chumastic Hub
-Filename : start.bsp
+
+Map: Neon Vertical Sky High
+Filename : mpj2_chuma.bsp
 
 
-Map: The System Control
-Filename : alksystemcontrol.bsp
+Song used: 
 
-
-Songs used: 
-
-Track 04 : Detonation (by Dragonfly) - Blood Instinct (original song from TNT midi pack remastered by me / Blood Instinct)
-
-
-Track 05 : Suspenseful Thoughts - Blood Instinct.
-
-
-Tracks made by the band Blood Instinct (my band, hello):
-https://soundcloud.com/blood-instinct-72
-https://blood-instinct.bandcamp.com
-
-
-Tools used in music : FL Studio (FLEX, Sytrus) 
-
-
-Instruments : Synth and Drums.
+Track 27 : The Neon Terminator - Proxy-MIDI. (original track)
 
 
 ### General Information / Behind the scenes.
 
-Going back in history, i've made this map already: https://www.slipseer.com/index.php?resources/system-control-doom-tnt-map-01-quake-remake.252/
+I had a left over idea from a level design jam by Steve Lee that i didn't have time to participate, the jam was called Contrast and Brightness, where i had the idea to make a surrounded by sky map where brightness and darkness would switch in areas across the map to play with the Light entities.
 
+Ever since i grew up as a mapper i realized that idea was not the best i could have done.
 
-Long story short, the map was per se never lit, for a while i debated myself if i let it be or not... i decided as a small side project just to remake this map,
-the sum of factors were simple : the lack of lighting, Greenwood's gameplay with it in Alkaline mod and some of my love of converting Doom maps in Quake.
-While this practice has been on-going since the 90s and i had a frozen project that were Quakefying some Doom maps i decided to start remaking System control.
+A bit from that leftover and abandoned idea i decided to make this map, the brightness/contrast factor can be seen with my signature Neon Lights style.
 
+The music track was one i requested to Proxy-MIDI because my original idea was an usual Dark Synthwave bumped up track, Proxy did a cool Synthwave style mockup, started from scratch since he didn't record the original and re-made it for my Aesthetic map, i thank him for that.
 
-While i wanted to write it more as a joke i'll give a bit of context.
-
-
-Superman film (2025 film) was released July 11 2025 directed by James Gunn (watch it, it's pretty good), previously he directed "The Suicide Squad" (2021) when DC/Warner offered him a role to direct a film after he was laid off from Marvel.
-The small story that basically is a joke was that the title of the film was "The Suicide Squad" because someone proposed it and it stuck (a DC producer probably), while in the DCEU (or DC cinematic universe of the time)
-There was already a "Suicide Squad" (2016) film regardless, but sometimes the jokes become more than memes and they live or something.
-I do love superhero movies, and while it sounds like a joke, and after trying a lot of names... i just went with "The System Control"
-
-
-I know it's an over-explanation of a stupid joke, but i decided to leave the paragraph of my love of Superheroe movies / Cinematic Universes / DC (in this case).
-
-
-Part of the spirit of this tale is in this map, a remake / soft-reboot that has nothing to do with it's original work, now in Alkaline. (ba dum tss) (snare snare cymbal)
-
-
-The music is Detonation by Dragonfly from TNT Evilution midi pack, Greenwood didn't use the original MIDI-mp3 of the original song (Sadistic) in his video, i didn't like any cover of "Sadistic" online,
-And i didn't find any "Detonation" cover that i liked so i did some music production... As i've been doing MIDI/Covers/Remasters with FL Studio, a good opportunity to do so.
-
-
-in this map i used a small change to work on my neon lights, thanks to bmFbr/Fabio, i used -surflight_radiosity 1  in the Light parameters... Hoping my AESTHETIC style keeps growing and improving over projects.
-
-
-Hope you enjoy my map, best wishes to all of you, your friends and family.
-
-
-Shine with style! Excelsior!
-
+Hope you enjoy my map! Shine with style!
 
 
 ### Special thanks
@@ -80,8 +36,10 @@ A special shoutout to Ribbiks and dannebubinga for making Sunlust (Doom wad) as 
 A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me.  <3
 
 
-- Yuyi
-- Alunadrern
+- Yuyi.
+- Alunadrern.
+- Proxy-MIDI.
+- spootnik
 - bmFbr.
 - Paril.
 - CommonCold.
